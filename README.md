@@ -2,8 +2,8 @@
 
 Software Engineering Course Project (BITS Pilani K. K. Birla Goa Campus) IS F341
 
-Made By:
-Atharv Chandratre - 2017A7PS0009G
+Made By: <br>
+Atharv Chandratre - 2017A7PS0009G<br>
 Aditya Ketkar - 2016A7PS0081G
 
 ## Dependencies:
