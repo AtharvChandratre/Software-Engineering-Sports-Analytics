@@ -6,6 +6,8 @@ Made By: <br>
 Atharv Chandratre - 2017A7PS0009G<br>
 Aditya Ketkar - 2016A7PS0081G
 
+The whole code base is extensively commented for the user to understand.<br>
+Please find the presentation we made as a demonstration [here](https://drive.google.com/open?id=1iUKAe-FciQwLEO7u4xrviWrpK8NAjZwY).
 ## Dependencies:
 
 Python 3, YOLO Object Detection Algorithm, ImageJ
